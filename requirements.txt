@@ -1,0 +1,6 @@
+Flask
+flask-cors
+pickle-mixin
+numpy
+pandas
+scikit-learn
